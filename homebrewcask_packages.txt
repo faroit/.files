@@ -1,0 +1,11 @@
+atom
+hyper
+audacity
+cyberduck
+julia
+soundflower
+spectacle
+vlc
+chrome-browser
+vivaldi
+alfred
