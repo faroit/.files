@@ -1,4 +1,13 @@
-# Personal .dotfiles for OS X
+# Personal dev environment
+
+## General settings
+
+### Fonts
+
+```
+brew tap caskroom/fonts
+brew cask install font-fira-sans font-fira-code
+```
 
 ## Atom
 
