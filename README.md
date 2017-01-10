@@ -6,6 +6,7 @@
 
 ```
 cat homebrew_packages.txt | xargs brew install
+cat homebrewcask_packages.txt | xargs brew cask install
 ```
 
 ### Fonts
