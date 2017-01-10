@@ -2,6 +2,12 @@
 
 ## General settings
 
+### Homebrew
+
+```
+cat homebrew_packages.txt | xargs brew install
+```
+
 ### Fonts
 
 ```
