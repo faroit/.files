@@ -1,6 +1,6 @@
+mactex
 atom
 hyper
-audacity
 cyberduck
 julia
 soundflower
