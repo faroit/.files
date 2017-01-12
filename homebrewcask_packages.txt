@@ -9,3 +9,7 @@ vlc
 chrome-browser
 vivaldi
 alfred
+dropbox
+skype
+virtualbox
+flux
