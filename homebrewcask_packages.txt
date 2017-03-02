@@ -13,3 +13,4 @@ dropbox
 skype
 virtualbox
 flux
+osxfuse
